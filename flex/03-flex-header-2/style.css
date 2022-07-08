@@ -53,3 +53,7 @@ ul {
 .right-header {
   display: flex;
 }
+
+.right-header {
+  margin-left: auto;
+}
