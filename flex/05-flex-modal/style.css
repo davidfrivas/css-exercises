@@ -25,6 +25,8 @@ body {
 
 .modal-heading {
   display: flex;
+  align-items: center;
+  justify-content: space-between;
 }
 
 .icon {
