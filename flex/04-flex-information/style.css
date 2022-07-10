@@ -18,6 +18,10 @@ display: flex;
 justify-content: center;
 }
 
+.items .plant {
+  display: flex;
+}
+
 /* do not edit this footer */
 .footer {
   position: fixed;
