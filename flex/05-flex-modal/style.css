@@ -36,6 +36,10 @@ h3 {
   margin: 0px;
 }
 
+.text {
+  margin-bottom: 16px;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
