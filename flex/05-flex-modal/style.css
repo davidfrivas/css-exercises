@@ -23,6 +23,10 @@ body {
   display: flex;
 }
 
+.modal-heading {
+  display: flex;
+}
+
 .icon {
   color: royalblue;
   font-size: 26px;
