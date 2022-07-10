@@ -18,6 +18,8 @@ img {
 .items {
 display: flex;
 justify-content: center;
+padding: 0px;
+gap: 52px;
 }
 
 .items .plant {
