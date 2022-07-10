@@ -21,6 +21,7 @@ justify-content: center;
 .items .plant {
   display: flex;
   flex-flow: column wrap;
+  width: 200px;
 }
 
 /* do not edit this footer */
