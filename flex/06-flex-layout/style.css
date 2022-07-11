@@ -36,6 +36,10 @@ input {
   padding: 10px;
 }
 
+.footer {
+  background: #eee;
+}
+
 .left-links,
 .right-links {
   display: flex;
